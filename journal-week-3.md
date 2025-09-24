@@ -1,0 +1,11 @@
+I started off by considering the 3d model portion of the graveyard project. I'm considering using the app Polycam on my phone which can take LiDAR data and make a model of the gravestones (and from what I understand LiDAR will give higher quality results as opposed to photos or videos). Although I don't know what you'll want us to exactly do when it comes to the photogrammetry.
+
+Next, I begun editing the kobotoolbox form for something more relevant to Canadian cemeteries. Here are the changes I made and justifications:
+
+1. Adding "Rebuilt as a new gravestone" option to "Condition of monument" prompt. As I said previously, many gravestones at the cemetery I was working at were reerected later on with any trace of the original gravestone having vanished. This was with the exception of the "mother" and "father" stones I mentioned, which were simply laid right behind the much larger modern stone.
+2. Adding "Too degraded to tell" option to "If there is a quote, the nature of the quote". Some stones I looked at had quotes but were too eroded to read the whole thing, so I could not answer the nature of the quote, in which case I had just put "other"
+3. Adding question "Distance, if applicable, from church (in meters)" I think this is relevant to all cemeteries, especially the one I studied. I'd imagine that gravestones closer to a given church are older and perhaps belonged to prominent individuals, if the plots closer to the church were/are more expensive.
+4. Adding question "Proximity to relative's gravestones" 4 of the gravestones I studied were beside their relatives or significant others. That is: two (likely) twins whose stones were beside each other's and a wife and husband (father, mother). This could help us understand burial practices.
+5. Adding question "Photograph of back" I don't see how this could hurt to have as additional information. The back of gravestones could tell us more information of its condition and age.
+
+Other than that, I think the previous form was good, and I didn't see the need to delete anything. If my gravestone didn't have a feature which was prompted in the questions, I put a 0 (or the relevant number) for the fact that it did not have that feature.
