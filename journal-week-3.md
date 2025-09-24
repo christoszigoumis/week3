@@ -9,3 +9,5 @@ Next, I begun editing the kobotoolbox form for something more relevant to Canadi
 5. Adding question "Photograph of back" I don't see how this could hurt to have as additional information. The back of gravestones could tell us more information of its condition and age.
 
 Other than that, I think the previous form was good, and I didn't see the need to delete anything. If my gravestone didn't have a feature which was prompted in the questions, I put a 0 (or the relevant number) for the fact that it did not have that feature.
+
+Here is the shareable link: https://kf.kobotoolbox.org/#/forms/a2PULowU7BizkymPAR5Ecw
