@@ -12,3 +12,7 @@ Error code explanation: 404 - Nothing matches the given URI."
 I have no idea what to do next, I'll put it in the discord and see if anyone knows.
 
 It works after putting in just "localhost:8001" so thats good. I am happy about that. For some reason I cannot drag and drop the webmap folder into the Netlify website, but I will figure that out later.
+
+I found old Ottawa maps to download, one of which includes the area of the church, but my macbook literally won't let me download it for some reason no matter what I try. The shame is that I was excited to georeference an old map of Ottawa because I spent basically a month georeferencing aerial photos of Mani.
+
+I sucessfully created the webmap with my church and boundaries of it as a polygon, I plotted my five gravestones on the map as well, and it works as a website.
