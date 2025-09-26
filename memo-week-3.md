@@ -16,3 +16,12 @@ It works after putting in just "localhost:8001" so thats good. I am happy about 
 I found old Ottawa maps to download, one of which includes the area of the church, but my macbook literally won't let me download it for some reason no matter what I try. The shame is that I was excited to georeference an old map of Ottawa because I spent basically a month georeferencing aerial photos of Mani.
 
 I sucessfully created the webmap with my church and boundaries of it as a polygon, I plotted my five gravestones on the map as well, and it works as a website.
+
+I read everything for the next task of spatial analysis, but could not manage to get R working. I did install it but when I tried to put in the second line of code from Contrereas it gave me this error: "Error in IRkernel::installspec() : 
+  jupyter-client has to be installed but “jupyter kernelspec --version” exited with code 127.
+In addition: Warning message:
+In system2("jupyter", c("kernelspec", "--version"), FALSE, FALSE) :
+  error in running command"
+
+To be honest I have no idea what it really means, but I assume I'll need to have R working for the future, so I'll keep trying later.
+  
