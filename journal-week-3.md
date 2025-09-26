@@ -12,6 +12,13 @@ Other than that, I think the previous form was good, and I didn't see the need t
 
 Here is the shareable link: https://kf.kobotoolbox.org/#/forms/a2PULowU7BizkymPAR5Ecw
 
+In terms of my observations of the graveyard I'm working on, everyone seems to be fairly equally commemorated, but as previously mentioned most of these graves are modern. The only less-commemorated stones were those father and mother stones (and that one other illegible one) because they were very small compared to even the contemporary stones there. In my opinion, I think the coding schemes honestly did a great job for this cemetery here, I only thought of addding 5 things which I explained above.
+
+In doing archaeology, there are two things which anyone doing can never get rid of: authority/power and bias. Everyone has these. In studying this cemetery for example, I came with the authority that I actually had premission to study this cemetery, and the power to take measurements and photographs. My bias was that I am Greek Orthodox, i.e. I figure a Muslim or Jew might have approached this cemetery with a feeling of less connection and understanding, just as would I at a Jewish or Muslim cemetery. 
+
+No aspects directly emotionally affected me while studying this cemetery in particular, although below I remark on something else in Greece which shaped me.
+
+
 Reading annotations:
 
 "It was a golden island of sugar; it was also hell on earth for many hundreds of thousands of enslaved peoples brought there to work through forced migration." Cook, Katherine. 2018 Negotiating Memory: Funerary Commemoration as Social Change in Barbados. African and Black Diaspora: An International Journal. 77.
