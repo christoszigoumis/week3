@@ -10,3 +10,5 @@ Message: File not found.
 Error code explanation: 404 - Nothing matches the given URI."
 
 I have no idea what to do next, I'll put it in the discord and see if anyone knows.
+
+It works after putting in just "localhost:8001" so thats good. I am happy about that.
